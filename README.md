@@ -1,5 +1,7 @@
 # True Color Window Inverter
 
+**This is a fork of https://github.com/Lynet101/gnome-true-color-invert to fix/handle Gnome 45.**
+
 **!!!IMPORTANT!!!**
 *As of December the 5th, 2023, this project is orphaned, and will no longer be maintained by developer Lynet_101*
 This decission comes due to changes and stress in the personal, as well as professional life. 
