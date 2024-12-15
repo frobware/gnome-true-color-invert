@@ -4,7 +4,7 @@
   "name": "True Color Invert",
   "settings-schema": "org.gnome.shell.extensions.true-color-window-invert",
   "shell-version": [
-    "45", "46", "47",
+    "45", "46", "47"
   ],
   "url": "https://github.com/frobware/gnome-true-color-invert",
   "uuid": "true-color-window-invert@frobware.github.com",
